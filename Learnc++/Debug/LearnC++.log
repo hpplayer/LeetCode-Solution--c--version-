@@ -1,2 +1,2 @@
-﻿  LearnC++.cpp
-  LearnC++.vcxproj -> C:\Users\hpPlayer\documents\visual studio 2015\Projects\LearnC++\Debug\LearnC++.exe
+﻿Find_the_Duplicate_Number_p287_sol1.obj : error LNK2005: _main already defined in Create_Maximum_Number_p321_sol1.obj
+e:\visual studio 2015\Projects\LeetCode\Debug\LearnC++.exe : fatal error LNK1169: one or more multiply defined symbols found
